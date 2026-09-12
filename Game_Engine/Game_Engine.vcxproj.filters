@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Game_Engine.cpp">
+    <ClCompile Include="window_hys.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
